@@ -1,4 +1,6 @@
 <h2>Hello! My name's Fatemeh 👋</h2>
+<p>I'm a passionate front-end developer with a solid foundation in JavaScript. Currently honing my skills as a junior developer, I'm focused on building dynamic, responsive web applications. I’m always eager to learn and contribute to innovative projects.
+</p>
 <h3>My Expertise:</h3>
 <img src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,github' alt='langueges' />
 <h3>My Social Network:</h3>
