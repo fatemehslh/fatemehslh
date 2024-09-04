@@ -1,4 +1,4 @@
-<h1>Hello! My name's Fatemeh 👋</h1>
+<h3>Hello! My name's Fatemeh 👋</h3>
 
 <!--
 **fatemehslh/fatemehslh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
