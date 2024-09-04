@@ -1,5 +1,5 @@
 <h2>Hello! My name's Fatemeh 👋</h2>
-<h3>My Experiences:</h3>
+<h3>My Expertise:</h3>
 <img src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,github' alt='langueges' />
 
 <!--
