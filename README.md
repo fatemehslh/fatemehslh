@@ -4,7 +4,8 @@
 <h3>My Expertise:</h3>
 <img src='https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,github' alt='langueges' />
 <h3>My Social Network:</h3>
-<img src='https://skillicons.dev/icons?i=gmail,linkedin,discord' alt='socialnetwork' />
+<img src='https://skillicons.dev/icons?i=gmail' alt='socialnetwork' />
+<!-- <img src='https://skillicons.dev/icons?i=gmail,linkedin,discord' alt='socialnetwork' /> -->
 
 <!--
 **fatemehslh/fatemehslh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
